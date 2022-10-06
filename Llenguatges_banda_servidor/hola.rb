@@ -1,13 +1,13 @@
-puts "Hola, Ramis!"
+puts "Hola, Menorca!"
 
-class HolaRamis
+class HolaMenorca
     def initialize()
     end
     def saluda()
-        puts "Hola, Ramis!"
+        puts "Hola, Menorca!"
     end
 end
 
-objeto = HolaRamis.new()
+objeto = HolaMenorca.new()
 objeto.saluda
 gets()
