@@ -1,6 +1,6 @@
-puts "Hola, Menorca!"
+puts "Hola Adam, Soy Carlos!"
 
-class HolaMenorca
+class Hola Adam, Soy Carlos
     def initialize()
     end
     def saluda()
@@ -8,6 +8,6 @@ class HolaMenorca
     end
 end
 
-objeto = HolaMenorca.new()
+objeto = Hola Adam, Soy Carlos.new()
 objeto.saluda
 gets()
