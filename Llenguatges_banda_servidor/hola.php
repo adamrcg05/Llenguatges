@@ -3,6 +3,6 @@
   <title>Prueba de PHP</title>
  </head>
  <body>
- <?php echo '<p>Hola, Menorca!</p>'; ?>
+ <?php echo '<p>Hola, Pablo!</p>'; ?>
  </body>
 </html>
